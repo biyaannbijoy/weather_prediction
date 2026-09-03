@@ -1,0 +1,4 @@
+Libraries used are :
+numpy==2.5.1
+pandas
+torch==2.13.0
